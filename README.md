@@ -11,4 +11,4 @@ Successfully designed and implemented a secure Wireless Local Area Network (WLAN
 - **Security:** Implemented **WPA2-Personal (AES)** encryption for secure client access.
 - **Troubleshooting:** Resolved connectivity issues by correcting **Subnet Mask mismatches** and **IP addressing errors**.
 - **Validation:** Verified end-to-end communication via **ICMP Ping** with 0% packet loss.
--
+
